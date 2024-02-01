@@ -13,4 +13,4 @@ RUN yarn build
 EXPOSE 9777
 
 # 运行 Next.js 应用
-CMD ["yarn", "start"]
+CMD ["yarn", "serve"]
